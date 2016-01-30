@@ -1,2 +1,2 @@
 # music
-Sheet music under free licenses, written with LilyPond.
+My free-licensed music, written on [LilyPond](http://www.lilypond.org/).
