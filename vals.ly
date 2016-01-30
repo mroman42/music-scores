@@ -3,7 +3,7 @@
 \header {
   title = "Vals"
   composer = "Mario Román (@M42)"
-  tagline = "This work is licensed under a a Creative Commons Attribution-ShareAlike 4.0 International License"
+  tagline = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License"
 }
 
 
